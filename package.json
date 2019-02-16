@@ -1,7 +1,7 @@
 {
   "name": "hexo-ruby-character-ex",
   "version": "0.1.0",
-  "description": "Ruby charater tag for Hexo",
+  "description": "Ruby charater tag for Hexo, with pinyin support.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
