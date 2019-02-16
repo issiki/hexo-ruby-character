@@ -1,25 +1,26 @@
 {
-  "name": "hexo-ruby-character",
-  "version": "1.0.6",
-  "description": "Ruby charater tag for Hexo",
+  "name": "hexo-ruby-character-ex",
+  "version": "0.1.0",
+  "description": "Ruby charater tag for Hexo, with pinyin support.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JamesPan/hexo-ruby-character.git"
+    "url": "git+https://github.com/issiki/hexo-ruby-character-ex.git"
   },
   "keywords": [
     "hexo",
-    "ruby-charater"
+    "ruby-charater",
+    "pinyin"
   ],
-  "author": "Pan Jiabang",
+  "author": "Futaba Isshiki",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JamesPan/hexo-ruby-character/issues"
+    "url": "https://github.com/issiki/hexo-ruby-character-ex/issues"
   },
-  "homepage": "https://github.com/JamesPan/hexo-ruby-character",
+  "homepage": "https://github.com/issiki/hexo-ruby-character-ex",
   "dependencies": {
     "pinyin": "~2.6.2"
   }
