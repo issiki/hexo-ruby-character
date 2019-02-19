@@ -12,6 +12,6 @@ Ruby character tag for Hexo, inspired by the [Ruby template](https://zh.moegirl.
 `{% ruby 超電磁砲|レールガン %}` → <ruby>超電磁砲<rp>(</rp><rt>レールガン</rt><rp>)</rp></ruby>
 
 ### {% pinyin base|text %}
-the pinyin chatater with heads are not easy to type.
+the pinyin character with tone marks are not easy to type.
 
 `{% pinyin 佐天泪子|掀裙狂魔 %}` → <ruby>佐天泪子<rp>(</rp><rt>xiān qún kuáng mó</rt><rp>)</rp></ruby>
